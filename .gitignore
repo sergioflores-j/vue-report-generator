@@ -59,3 +59,19 @@ typings/
 
 # next.js build output
 .next
+
+.quasar
+.DS_Store
+.thumbs.db
+/dist
+/src-cordova/platforms
+/src-cordova/plugins
+/src-cordova/www
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
